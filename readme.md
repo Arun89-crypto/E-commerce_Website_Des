@@ -12,8 +12,8 @@
 <img width="500" src="images/Desktop2.png">
 
 ### Smartphone
-<img src="images/Mobile1.png">
-<img src="images/Mobile2.png">
+<img height="500" src="images/Mobile1.png">
+<img height="500" src="images/Mobile2.png">
 
 #### I dont own any of the vectors used in the website except my logo
 
