@@ -143,8 +143,12 @@
     margin: 1%;
     z-index: 2;
     flex-direction: column;
+    max-height: 60%;
+    overflow : scroll;
 }
-
+.cart::-webkit-scrollbar{
+    display:none;
+}
 .navbar{
     display: flex;
     align-items: center;
